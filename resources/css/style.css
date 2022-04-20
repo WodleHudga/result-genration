@@ -1,0 +1,16 @@
+.container{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: auto;
+}
+.nav_bar{
+    height: 100px;
+    width: auto;
+    background: #ecf0f3;
+    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #ffffff;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
